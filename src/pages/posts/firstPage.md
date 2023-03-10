@@ -8,7 +8,7 @@ cover:
     url: 'https://w.wallhaven.cc/full/j3/wallhaven-j3m8y5.png'
     square: 'https://w.wallhaven.cc/full/j3/wallhaven-j3m8y5.png'
     alt: 'cover'
-tags: ["生活", "标准库", "golang", "gin"]
+tags: ["生活", "前端学习进阶", "思考与观点"]
 theme: 'light'
 featured: false
 ---
