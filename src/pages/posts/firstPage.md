@@ -55,11 +55,27 @@ Hello, have a nice day!(这段文字居中对齐了)
 
 ![躺在花丛中的宇航员](https://w.wallhaven.cc/full/1p/wallhaven-1p398w.jpg)
 
-试试看本地图片
+试试看本地图片。好吧，看来本地的图片暂时用不了,不加任何东西,图片默认就这么大
 
 ![蓝天之下的蓝色飞机](../upload/plane.png)
+
+可以将图片的宽度占满整个屏幕 |wide
+
+![红色的法拉利赛车 |wide](https://w.wallhaven.cc/full/1k/wallhaven-1ky369.jpg)
+
+再试试同段落宽度一致的图片 |inline 
+
+![红色的法拉利赛车 |inline](https://w.wallhaven.cc/full/1k/wallhaven-1ky369.jpg)
 
 ## 来一个二级标题吧
 
 下面再写一些文字（如果标题下面没有写文字，就会自动顶到左边）
+
+### 三级标题
+
+#### 四级标题
+
+# 一级标题 好吧 所有的标题大小都一样    
+
+
 
