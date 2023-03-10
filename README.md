@@ -1,5 +1,7 @@
+Sofar的个人博客
 
-[中文版本说明](./README_CN.md)
+
+<!-- [中文版本说明](./README_CN.md)
 
 ## 👏🏻 Introduction
 
@@ -99,4 +101,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat). -->
