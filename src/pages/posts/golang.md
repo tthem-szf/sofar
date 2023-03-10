@@ -8,7 +8,7 @@ cover:
     url: 'https://pic.lookcos.cn/i/usr/uploads/2022/04/2067928922.png'
     square: 'https://pic.lookcos.cn/i/usr/uploads/2022/04/2067928922.png'
     alt: 'cover'
-tags: ["源码研究", "标准库", "golang", "gin"]
+tags: ["生活", "标准库", "golang", "gin"]
 theme: 'light'
 featured: false
 ---
