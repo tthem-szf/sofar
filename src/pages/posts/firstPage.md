@@ -8,14 +8,43 @@ cover:
     url: 'https://w.wallhaven.cc/full/j3/wallhaven-j3m8y5.png'
     square: 'https://w.wallhaven.cc/full/j3/wallhaven-j3m8y5.png'
     alt: 'cover'
-tags: ["生活", "前端学习进阶", "思考与观点"]
+tags: ["生活", "前端", "观点"]
 theme: 'light'
 featured: false
 ---
 
-Hello, have a nice day!(这段文字居中对齐了)
+Hello, have a nice day!(这段文字居中对齐了)，首页必须加上cover封面图片，不能删掉（可以为空）  
+试试看换行。**加粗** ***斜体***    
+>引用这段文字，没有任何效果
 
-再来一段文字,看看效果。
+有序列表语法，以1. 开始，必须是英文句点
+1. 早上吃燕麦牛奶
+    - 好吃
+    - 好吃不
+2. 中午吃牛排炒青菜
+3. 晚上吃面条
+
+无序列表语法 以 - 或者 * 或者 + 开头，通过缩进可以实现嵌套无序列表
+- 春
+  - 立春
+    - 清明
+      * 白露
+  - 雨水
++ 夏
+* 秋
++ 冬
+
+代码语块 ` Array.toString() `  Array.toString()(非代码语块)
+
+转义字符 双反引号 ``  ` ` - + `  ``
+
+分割线语法 ---  *** ___ 三种方式均可以,但是为了兼容性问题,在分割线的前后都要空一行
+
+---
+
+***
+
+___
 
 来一段今天写的js算法题，题目名称是：求字符串的最长不重复字串的长度。
 ``` js
@@ -50,6 +79,11 @@ Hello, have a nice day!(这段文字居中对齐了)
 
     console.log(lengthOfLongestSubstring('abcabcb')); //3
 ```
+
+链接引用格式 [超链接显示名](https://www.baidu.com "超链接title")
+
+<https:>
+
 
 再来一张图片
 
