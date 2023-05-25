@@ -1,14 +1,14 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: '我的第一篇博客'
-pubDate: 2023-03-10
+pubDate: 2022-11-10
 description: '试试看能不能发上去'
 author: 'S'
 cover:
     url: 'https://w.wallhaven.cc/full/j3/wallhaven-j3m8y5.png'
     square: 'https://w.wallhaven.cc/full/j3/wallhaven-j3m8y5.png'
     alt: 'cover'
-tags: ["生活", "前端", "观点"]
+tags: ["所有博客","生活", "前端", "观点"]
 theme: 'light'
 featured: false
 ---
@@ -83,6 +83,10 @@ ___
 链接引用格式 [超链接显示名](https://www.baidu.com "超链接title")
 
 <https:>
+
+![image-20230313081848013](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230313081848013.png)
+
+
 
 
 再来一张图片

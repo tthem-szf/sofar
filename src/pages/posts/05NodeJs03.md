@@ -1,15 +1,15 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'NodeJsDay3'
-pubDate: 2023-03-12
+pubDate: 2023-01-12
 description: '愿上帝赐予我从容去接受我不能改变的，并赐予我勇气去改变我可以改变的,并赐予我智慧去分辨这两者的区别'
 author: 'S'
 cover:
     url: 'https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs.jpg'
     square: 'https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs.jpg'
     alt: 'cover'
-tags: ["前端","读书"]
-theme: 'light'
+tags: ["所有博客","前端","读书"]
+theme: 'dark'
 featured: true
 ---
 

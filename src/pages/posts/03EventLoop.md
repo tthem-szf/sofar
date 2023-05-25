@@ -1,15 +1,15 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'EventLoop事件循环'
-pubDate: 2023-03-11
+pubDate: 2022-12-11
 description: '面试中被问到这道题'
 author: 'S'
 cover:
     url: 'https://pic2.zhimg.com/80/v2-0359c5bd53e7222d579429c1641af6f1_720w.webp'
     square: 'https://pic2.zhimg.com/80/v2-0359c5bd53e7222d579429c1641af6f1_720w.webp'
     alt: 'cover'
-tags: ["前端", "面试"]
-theme: 'light'
+tags: ["所有博客","前端", "面试"]
+theme: 'dark'
 featured: true
 ---
 

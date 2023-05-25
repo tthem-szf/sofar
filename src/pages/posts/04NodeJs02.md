@@ -1,15 +1,15 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'NodeJsDay2'
-pubDate: 2023-03-11
+pubDate: 2022-12-19
 description: 'Why What How'
 author: 'S'
 cover:
     url: 'https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs.jpg'
     square: 'https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs.jpg'
     alt: 'cover'
-tags: ["前端"]
-theme: 'light'
+tags: ["所有博客","前端"]
+theme: 'dark'
 featured: true
 ---
 
@@ -75,7 +75,7 @@ nodejs的模块
 
 **npm install 完整的包名称** 下载包 简写方式：**npm i 完整的包名称**  。
 **npm install 完整的包名称@版本号** 安装指定版本的包。版本号分为三位，第一位表示大版本，第二位表示功能版本，第三位表示bug修复版本。
-**package.json** 包管理配置文件，用来记录与项目有关的一些配置信息。
+**package.json** 包管理s配置文件，用来记录与项目有关的一些配置信息。
 
 ![包管理配置文件](../upload/packageJson.png)
 
